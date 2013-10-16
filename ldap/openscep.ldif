@@ -1,0 +1,7 @@
+dn: CN=OpenSCEP,O=othello,C=CH
+objectclass: top
+objectclass: certificationAuthority
+cACertificate;binary:< file:///usr/local/lib/openscep/cacert.der
+certificateRevocationList;binary:< file:///usr/local/lib/openscep/crl.der
+authorityRevocationList;binary:< file:///usr/local/lib/openscep/crl.der
+
