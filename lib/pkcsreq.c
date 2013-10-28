@@ -50,7 +50,7 @@ int	pkcsreq(scep_t *scep) {
 
 	/* optionally check the key fingerprint matches the 		*/
 	/*transaction id						*/
-	if (scep->check_transid) {
+	if (scep->check_transid && 0) {
 		if (fingerprint_cmp(scep->keyfingerprt, scep->transId)) {
 			BIO_printf(bio_err, "%s:%d: key fingerprint != "
 				"transId\n", __FILE__, __LINE__);

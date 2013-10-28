@@ -68,6 +68,7 @@ int	decode(scep_t *scep, BIO *bio) {
 	} else {
 		inbio = bio;
 	}
+	BIO_set_flags(inbio, BIO_FLAGS_BASE64_NO_NL);
 	membio = BIO_new(BIO_s_mem());
 	while ((bytes = BIO_read(inbio, buffer, sizeof(buffer))) > 0) {
 		if (debug)

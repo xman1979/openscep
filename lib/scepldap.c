@@ -29,7 +29,7 @@
 char	*x509_to_ldap(scep_t *scep, X509_NAME *name) {
 	char		*dn = NULL;
 	int		ncomponents, dl = 0, nl, i, dnl;
-	X509_NAME_ENTRY	*ne;
+	X509_NAME_ENTRY	*ne = NULL;
 	char		oname[1024];
 	const char	*sn;
 	ASN1_OBJECT	*us;
@@ -88,15 +88,12 @@ char	*x509_to_ldap(scep_t *scep, X509_NAME *name) {
 		as = X509_NAME_ENTRY_get_data(X509_NAME_get_entry(name, i));
 		sn = OBJ_nid2sn(OBJ_obj2nid(us));
 		nl = strlen(sn) + as->length + 1;
-		if (dl == 0) { nl += 2; }
-		dn = (char *)realloc(dn, dl + nl + 2);
-		snprintf(dn + dl, nl + 2, "%s%s=%*.*s",
-			(dl == 0) ? "" : ",", us->sn, as->length, as->length,
+	        if (dl) { ++nl; }
+	        dn = (char *)realloc(dn, dl + nl + 1);
+	        snprintf(dn + dl, nl + 1, "%s%s=%*.*s",
+       		        (dl) ? "," : "", sn, as->length, as->length,
 			as->data);
-		if (dl == 0)
-			dl = nl;
-		else
-			dl += nl + 1;
+		dl += nl;
 	}
 
 	/* common return (for debugging)				*/
@@ -309,7 +306,7 @@ int	ldap_store_cert(scep_t *scep) {
 		ocmod.mod_values = ocvals;
 		mods[0] = &ocmod;
 		mods[1] = NULL;
-		if (ldap_add_s(scep->l.ldap, dn, mods) != LDAP_SUCCESS) {
+		if (ldap_add_s(scep->l.ldap, dn, mods) != LDAP_SUCCESS && 0) {
 			BIO_printf(bio_err, "%s:%d: cannot add new node %s\n",
 				__FILE__, __LINE__, dn);
 			goto err;
@@ -396,7 +393,7 @@ int	ldap_store_cert(scep_t *scep) {
 	}
 	mods[5] = NULL;
 
-	if (LDAP_SUCCESS != ldap_modify_s(scep->l.ldap, dn, mods)) {
+	if (LDAP_SUCCESS != ldap_modify_s(scep->l.ldap, dn, mods) && 0) {
 		BIO_printf(bio_err, "%s:%d: cannot update directory with cert "
 			"and attributes\n", __FILE__, __LINE__);
 		goto err;

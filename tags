@@ -1,0 +1,666 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.6	//
+BIND_RESTRICTED	./libltdl/ltdl.c	362;"	d	file:
+BIND_RESTRICTED	./rogi/openscep-0.4.2/libltdl/ltdl.c	362;"	d	file:
+DYNAMIC_PATH	./libltdl/ltdl.c	359;"	d	file:
+DYNAMIC_PATH	./rogi/openscep-0.4.2/libltdl/ltdl.c	359;"	d	file:
+ERR_OPENSCEP_error	./lib/openscep_err.c	/^void ERR_OPENSCEP_error(int function, int reason, char *file, int line)$/;"	f
+ERR_load_OPENSCEP_strings	./lib/openscep_err.c	/^void ERR_load_OPENSCEP_strings(void)$/;"	f
+ERR_unload_OPENSCEP_strings	./lib/openscep_err.c	/^void ERR_unload_OPENSCEP_strings(void)$/;"	f
+HAVE_ALTZONE	./acconfig.h	10;"	d
+HAVE_ALTZONE	./rogi/openscep-0.4.2/acconfig.h	10;"	d
+HAVE_DLD	./libltdl/acconfig.h	9;"	d
+HAVE_DLD	./rogi/openscep-0.4.2/libltdl/acconfig.h	9;"	d
+HAVE_LIBDL	./libltdl/acconfig.h	6;"	d
+HAVE_LIBDL	./rogi/openscep-0.4.2/libltdl/acconfig.h	6;"	d
+HAVE_SHL_LOAD	./libltdl/acconfig.h	12;"	d
+HAVE_SHL_LOAD	./rogi/openscep-0.4.2/libltdl/acconfig.h	12;"	d
+ITEM_TYPE_CERT	./rogi/openscep-0.4.2/scepd/sceplist.c	41;"	d	file:
+ITEM_TYPE_CERT	./scepd/sceplist.c	41;"	d	file:
+ITEM_TYPE_REQ	./rogi/openscep-0.4.2/scepd/sceplist.c	42;"	d	file:
+ITEM_TYPE_REQ	./scepd/sceplist.c	42;"	d	file:
+LOG_FACILITY	./acconfig.h	4;"	d
+LOG_FACILITY	./acconfig.h	6;"	d
+LOG_FACILITY	./rogi/openscep-0.4.2/acconfig.h	4;"	d
+LOG_FACILITY	./rogi/openscep-0.4.2/acconfig.h	6;"	d
+LTDL_BIND_FLAGS	./libltdl/ltdl.c	365;"	d	file:
+LTDL_BIND_FLAGS	./rogi/openscep-0.4.2/libltdl/ltdl.c	365;"	d	file:
+LTDL_FILENAME_MAX	./libltdl/ltdl.c	65;"	d	file:
+LTDL_FILENAME_MAX	./rogi/openscep-0.4.2/libltdl/ltdl.c	65;"	d	file:
+LTDL_GLOBAL	./libltdl/ltdl.c	218;"	d	file:
+LTDL_GLOBAL	./libltdl/ltdl.c	221;"	d	file:
+LTDL_GLOBAL	./libltdl/ltdl.c	223;"	d	file:
+LTDL_GLOBAL	./rogi/openscep-0.4.2/libltdl/ltdl.c	218;"	d	file:
+LTDL_GLOBAL	./rogi/openscep-0.4.2/libltdl/ltdl.c	221;"	d	file:
+LTDL_GLOBAL	./rogi/openscep-0.4.2/libltdl/ltdl.c	223;"	d	file:
+LTDL_LAZY_OR_NOW	./libltdl/ltdl.c	231;"	d	file:
+LTDL_LAZY_OR_NOW	./libltdl/ltdl.c	234;"	d	file:
+LTDL_LAZY_OR_NOW	./libltdl/ltdl.c	237;"	d	file:
+LTDL_LAZY_OR_NOW	./libltdl/ltdl.c	240;"	d	file:
+LTDL_LAZY_OR_NOW	./libltdl/ltdl.c	242;"	d	file:
+LTDL_LAZY_OR_NOW	./rogi/openscep-0.4.2/libltdl/ltdl.c	231;"	d	file:
+LTDL_LAZY_OR_NOW	./rogi/openscep-0.4.2/libltdl/ltdl.c	234;"	d	file:
+LTDL_LAZY_OR_NOW	./rogi/openscep-0.4.2/libltdl/ltdl.c	237;"	d	file:
+LTDL_LAZY_OR_NOW	./rogi/openscep-0.4.2/libltdl/ltdl.c	240;"	d	file:
+LTDL_LAZY_OR_NOW	./rogi/openscep-0.4.2/libltdl/ltdl.c	242;"	d	file:
+LTDL_READTEXT_MODE	./libltdl/ltdl.c	68;"	d	file:
+LTDL_READTEXT_MODE	./libltdl/ltdl.c	71;"	d	file:
+LTDL_READTEXT_MODE	./libltdl/ltdl.c	73;"	d	file:
+LTDL_READTEXT_MODE	./rogi/openscep-0.4.2/libltdl/ltdl.c	68;"	d	file:
+LTDL_READTEXT_MODE	./rogi/openscep-0.4.2/libltdl/ltdl.c	71;"	d	file:
+LTDL_READTEXT_MODE	./rogi/openscep-0.4.2/libltdl/ltdl.c	73;"	d	file:
+LTDL_SYMBOL_LENGTH	./libltdl/ltdl.c	76;"	d	file:
+LTDL_SYMBOL_LENGTH	./libltdl/ltdl.c	78;"	d	file:
+LTDL_SYMBOL_LENGTH	./rogi/openscep-0.4.2/libltdl/ltdl.c	76;"	d	file:
+LTDL_SYMBOL_LENGTH	./rogi/openscep-0.4.2/libltdl/ltdl.c	78;"	d	file:
+LTDL_SYMBOL_OVERHEAD	./libltdl/ltdl.c	80;"	d	file:
+LTDL_SYMBOL_OVERHEAD	./libltdl/ltdl.c	82;"	d	file:
+LTDL_SYMBOL_OVERHEAD	./rogi/openscep-0.4.2/libltdl/ltdl.c	80;"	d	file:
+LTDL_SYMBOL_OVERHEAD	./rogi/openscep-0.4.2/libltdl/ltdl.c	82;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	121;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	319;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	320;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	423;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	424;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	495;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	496;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	599;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	600;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	677;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	678;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	816;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	817;"	d	file:
+LTDL_TYPE_TOP	./libltdl/ltdl.c	824;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	121;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	319;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	320;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	423;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	424;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	495;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	496;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	599;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	600;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	677;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	678;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	816;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	817;"	d	file:
+LTDL_TYPE_TOP	./rogi/openscep-0.4.2/libltdl/ltdl.c	824;"	d	file:
+NEW_NIDS	./lib/init.c	38;"	d	file:
+NEW_NIDS	./rogi/openscep-0.4.2/lib/init.c	37;"	d	file:
+OPENSCEP_VERSION	./lib/openscep_vers.c	11;"	d	file:
+OPENSCEP_VERSION	./rogi/openscep-0.4.2/lib/openscep_vers.c	11;"	d	file:
+OPENSCEP_error_init	./lib/openscep_err.c	/^static int OPENSCEP_error_init=1;$/;"	v	file:
+OPENSCEP_lib_error_code	./lib/openscep_err.c	/^static int OPENSCEP_lib_error_code=0;$/;"	v	file:
+OPENSCEP_lib_name	./lib/openscep_err.c	/^static ERR_STRING_DATA OPENSCEP_lib_name[]=$/;"	v	file:
+OPENSCEP_str_functs	./lib/openscep_err.c	/^static ERR_STRING_DATA OPENSCEP_str_functs[]=$/;"	v	file:
+OPENSCEP_str_reasons	./lib/openscep_err.c	/^static ERR_STRING_DATA OPENSCEP_str_reasons[]=$/;"	v	file:
+SELECT_GRANTED	./rogi/openscep-0.4.2/scepd/sceplist.c	28;"	d	file:
+SELECT_GRANTED	./scepd/sceplist.c	28;"	d	file:
+SELECT_PENDING	./rogi/openscep-0.4.2/scepd/sceplist.c	27;"	d	file:
+SELECT_PENDING	./scepd/sceplist.c	27;"	d	file:
+SELECT_REJECTED	./rogi/openscep-0.4.2/scepd/sceplist.c	29;"	d	file:
+SELECT_REJECTED	./scepd/sceplist.c	29;"	d	file:
+SELECT_REVOKED	./rogi/openscep-0.4.2/scepd/sceplist.c	30;"	d	file:
+SELECT_REVOKED	./scepd/sceplist.c	30;"	d	file:
+SORT_NAME	./rogi/openscep-0.4.2/scepd/sceplist.c	22;"	d	file:
+SORT_NAME	./scepd/sceplist.c	22;"	d	file:
+SORT_NOTAFTER	./rogi/openscep-0.4.2/scepd/sceplist.c	24;"	d	file:
+SORT_NOTAFTER	./scepd/sceplist.c	24;"	d	file:
+SORT_NOTBEFORE	./rogi/openscep-0.4.2/scepd/sceplist.c	23;"	d	file:
+SORT_NOTBEFORE	./scepd/sceplist.c	23;"	d	file:
+SORT_SERIAL	./rogi/openscep-0.4.2/scepd/sceplist.c	25;"	d	file:
+SORT_SERIAL	./scepd/sceplist.c	25;"	d	file:
+SORT_TRANSID	./rogi/openscep-0.4.2/scepd/sceplist.c	21;"	d	file:
+SORT_TRANSID	./scepd/sceplist.c	21;"	d	file:
+STACK_OF	./lib/attr.c	/^int	attr_add_octet(STACK_OF(X509_ATTRIBUTE) *attrs, int nid,$/;"	f
+STACK_OF	./lib/attr.c	/^int	attr_add_string(STACK_OF(X509_ATTRIBUTE) *attrs, int nid, char *data) {$/;"	f
+STACK_OF	./lib/payload.c	/^X509_NAME	*x509_name_from_attributes(STACK_OF(X509_ATTRIBUTE) *attrs) {$/;"	f
+STACK_OF	./rogi/openscep-0.4.2/lib/attr.c	/^int	attr_add_octet(STACK_OF(X509_ATTRIBUTE) *attrs, int nid,$/;"	f
+STACK_OF	./rogi/openscep-0.4.2/lib/attr.c	/^int	attr_add_string(STACK_OF(X509_ATTRIBUTE) *attrs, int nid, char *data) {$/;"	f
+STACK_OF	./rogi/openscep-0.4.2/lib/payload.c	/^X509_NAME	*x509_name_from_attributes(STACK_OF(X509_ATTRIBUTE) *attrs) {$/;"	f
+STR_DLNAME	./libltdl/ltdl.c	1288;"	d	file:
+STR_DLNAME	./libltdl/ltdl.c	1289;"	d	file:
+STR_DLNAME	./rogi/openscep-0.4.2/libltdl/ltdl.c	1288;"	d	file:
+STR_DLNAME	./rogi/openscep-0.4.2/libltdl/ltdl.c	1289;"	d	file:
+STR_DL_DEPLIBS	./libltdl/ltdl.c	1309;"	d	file:
+STR_DL_DEPLIBS	./libltdl/ltdl.c	1310;"	d	file:
+STR_DL_DEPLIBS	./rogi/openscep-0.4.2/libltdl/ltdl.c	1309;"	d	file:
+STR_DL_DEPLIBS	./rogi/openscep-0.4.2/libltdl/ltdl.c	1310;"	d	file:
+STR_LIBDIR	./libltdl/ltdl.c	1302;"	d	file:
+STR_LIBDIR	./libltdl/ltdl.c	1303;"	d	file:
+STR_LIBDIR	./rogi/openscep-0.4.2/libltdl/ltdl.c	1302;"	d	file:
+STR_LIBDIR	./rogi/openscep-0.4.2/libltdl/ltdl.c	1303;"	d	file:
+STR_OLD_LIBRARY	./libltdl/ltdl.c	1295;"	d	file:
+STR_OLD_LIBRARY	./libltdl/ltdl.c	1296;"	d	file:
+STR_OLD_LIBRARY	./rogi/openscep-0.4.2/libltdl/ltdl.c	1295;"	d	file:
+STR_OLD_LIBRARY	./rogi/openscep-0.4.2/libltdl/ltdl.c	1296;"	d	file:
+TMPPATH	./lib/init.c	26;"	d	file:
+TMPPATH	./rogi/openscep-0.4.2/lib/init.c	25;"	d	file:
+_LTDL_COMPILE_	./libltdl/ltdl.c	27;"	d	file:
+_LTDL_COMPILE_	./rogi/openscep-0.4.2/libltdl/ltdl.c	27;"	d	file:
+_OPENSCEP_VERS_C_	./lib/openscep_vers.c	9;"	d	file:
+_OPENSCEP_VERS_C_	./rogi/openscep-0.4.2/lib/openscep_vers.c	9;"	d	file:
+_OPENSCEP_VERS_C_AS_HEADER_	./lib/openscep_vers.c	30;"	d	file:
+_OPENSCEP_VERS_C_AS_HEADER_	./lib/openscep_vers.c	32;"	d	file:
+_OPENSCEP_VERS_C_AS_HEADER_	./rogi/openscep-0.4.2/lib/openscep_vers.c	30;"	d	file:
+_OPENSCEP_VERS_C_AS_HEADER_	./rogi/openscep-0.4.2/lib/openscep_vers.c	32;"	d	file:
+any	./rogi/openscep-0.4.2/scepd/sceplist.c	/^		void		*any;$/;"	m	union:scepitem::__anon5	file:
+any	./scepd/sceplist.c	/^		void		*any;$/;"	m	union:scepitem::__anon6	file:
+asn1_time_to_ctime	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static char	*asn1_time_to_ctime(ASN1_TIME *tm) {$/;"	f	file:
+asn1_time_to_ctime	./scepd/sceplist.c	/^static char	*asn1_time_to_ctime(ASN1_TIME *tm) {$/;"	f	file:
+asn1_time_to_string	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static char	*asn1_time_to_string(ASN1_TIME *tm) {$/;"	f	file:
+asn1_time_to_string	./scepd/sceplist.c	/^static char	*asn1_time_to_string(ASN1_TIME *tm) {$/;"	f	file:
+asn1_time_to_time	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static time_t	asn1_time_to_time(ASN1_TIME *tm) {$/;"	f	file:
+asn1_time_to_time	./scepd/sceplist.c	/^static time_t	asn1_time_to_time(ASN1_TIME *tm) {$/;"	f	file:
+asn1_to_string	./lib/scepldap.c	/^static char	*asn1_to_string(ASN1_INTEGER *i) {$/;"	f	file:
+asn1_to_string	./rogi/openscep-0.4.2/lib/scepldap.c	/^static char	*asn1_to_string(ASN1_INTEGER *i) {$/;"	f	file:
+badreply	./lib/badreply.c	/^int	badreply(scep_t *scep, char *pkistatus) {$/;"	f
+badreply	./rogi/openscep-0.4.2/lib/badreply.c	/^int	badreply(scep_t *scep, char *pkistatus) {$/;"	f
+base64	./rogi/openscep-0.4.2/scepd/derdump.c	/^int	base64 = 0;$/;"	v
+base64	./scepd/derdump.c	/^int	base64 = 0;$/;"	v
+binddn	./rogi/openscep-0.4.2/scepd/crl2ldap.c	/^char	*binddn = NULL;$/;"	v
+binddn	./rogi/openscep-0.4.2/scepd/dn2xid.c	/^char	*binddn = NULL;$/;"	v
+binddn	./scepd/crl2ldap.c	/^char	*binddn = NULL;$/;"	v
+binddn	./scepd/dn2xid.c	/^char	*binddn = NULL;$/;"	v
+bindpw	./rogi/openscep-0.4.2/scepd/crl2ldap.c	/^char	*bindpw = NULL;$/;"	v
+bindpw	./rogi/openscep-0.4.2/scepd/dn2xid.c	/^char	*bindpw = NULL;$/;"	v
+bindpw	./scepd/crl2ldap.c	/^char	*bindpw = NULL;$/;"	v
+bindpw	./scepd/dn2xid.c	/^char	*bindpw = NULL;$/;"	v
+bio_err	./lib/init.c	/^BIO	*bio_err = NULL;$/;"	v
+bio_err	./rogi/openscep-0.4.2/lib/init.c	/^BIO	*bio_err = NULL;$/;"	v
+bio_err	./rogi/openscep-0.4.2/scepd/dn2xid.c	/^BIO	*bio_err;$/;"	v
+bio_err	./scepd/dn2xid.c	/^BIO	*bio_err;$/;"	v
+buffer_overflow_error	./libltdl/ltdl.c	/^static const char buffer_overflow_error[] = "internal buffer overflow";$/;"	v	file:
+buffer_overflow_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char buffer_overflow_error[] = "internal buffer overflow";$/;"	v	file:
+cannot_close_error	./libltdl/ltdl.c	/^static const char cannot_close_error[] = "can't close the module";$/;"	v	file:
+cannot_close_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char cannot_close_error[] = "can't close the module";$/;"	v	file:
+cannot_open_error	./libltdl/ltdl.c	/^static const char cannot_open_error[] = "can't open the module";$/;"	v	file:
+cannot_open_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char cannot_open_error[] = "can't open the module";$/;"	v	file:
+cert_grant	./lib/grant.c	/^int	cert_grant(scep_t *scep) {$/;"	f
+cert_grant	./rogi/openscep-0.4.2/lib/grant.c	/^int	cert_grant(scep_t *scep) {$/;"	f
+certrep	./lib/certrep.c	/^int	certrep(scep_t *scep) {$/;"	f
+certrep	./rogi/openscep-0.4.2/lib/certrep.c	/^int	certrep(scep_t *scep) {$/;"	f
+check_challenge	./lib/check.c	/^int	check_challenge(scep_t *scep) {$/;"	f
+check_challenge	./rogi/openscep-0.4.2/lib/check.c	/^int	check_challenge(scep_t *scep) {$/;"	f
+cmp_asn1_integer	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static int	cmp_asn1_integer(scepitem_t **a, scepitem_t **b) {$/;"	f	file:
+cmp_asn1_integer	./scepd/sceplist.c	/^static int	cmp_asn1_integer(scepitem_t **a, scepitem_t **b) {$/;"	f	file:
+cmp_string	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static int	cmp_string(scepitem_t **a, scepitem_t **b) {$/;"	f	file:
+cmp_string	./scepd/sceplist.c	/^static int	cmp_string(scepitem_t **a, scepitem_t **b) {$/;"	f	file:
+compare	./rogi/openscep-0.4.2/scepd/sceplist.c	/^int	(*compare)(scepitem_t **, scepitem_t **) = cmp_string;$/;"	v
+compare	./scepd/sceplist.c	/^int	(*compare)(scepitem_t **, scepitem_t **) = cmp_string;$/;"	v
+conffile	./rogi/openscep-0.4.2/scepd/scepconf.c	/^char	*conffile = OPENSCEPDIR "\/openscep.cnf";$/;"	v
+conffile	./scepd/scepconf.c	/^char	*conffile = OPENSCEPDIR "\/openscep.cnf";$/;"	v
+create_pending	./lib/pending.c	/^int	create_pending(scep_t *scep) {$/;"	f
+create_pending	./rogi/openscep-0.4.2/lib/pending.c	/^int	create_pending(scep_t *scep) {$/;"	f
+create_pending_pkcs10	./lib/pending.c	/^static int	create_pending_pkcs10(scep_t *scep) {$/;"	f	file:
+create_pending_pkcs10	./rogi/openscep-0.4.2/lib/pending.c	/^static int	create_pending_pkcs10(scep_t *scep) {$/;"	f	file:
+create_pending_spki	./lib/pending.c	/^static int 	create_pending_spki(scep_t *scep, X509_NAME *name) {$/;"	f	file:
+create_pending_spki	./rogi/openscep-0.4.2/lib/pending.c	/^static int 	create_pending_spki(scep_t *scep, X509_NAME *name) {$/;"	f	file:
+createreq	./lib/createreq.c	/^int	createreq(scep_t *scep, char *dn, char *challenge) {$/;"	f
+createreq	./rogi/openscep-0.4.2/lib/createreq.c	/^int	createreq(scep_t *scep, char *dn, char *challenge) {$/;"	f
+ctimeformat	./rogi/openscep-0.4.2/scepd/sceplist.c	/^int	ctimeformat = 0;$/;"	v
+ctimeformat	./scepd/sceplist.c	/^int	ctimeformat = 0;$/;"	v
+d2i_issuer_and_subject	./lib/isasu.c	/^issuer_and_subject_t	*d2i_issuer_and_subject(issuer_and_subject_t **a,$/;"	f
+d2i_issuer_and_subject	./rogi/openscep-0.4.2/lib/isasu.c	/^issuer_and_subject_t	*d2i_issuer_and_subject(issuer_and_subject_t **a,$/;"	f
+d2i_payload	./lib/payload.c	/^payload_t	*d2i_payload(payload_t **a, unsigned char **pp, long length) {$/;"	f
+d2i_payload	./rogi/openscep-0.4.2/lib/payload.c	/^payload_t	*d2i_payload(payload_t **a, unsigned char **pp, long length) {$/;"	f
+data	./rogi/openscep-0.4.2/scepd/sceplist.c	/^	} data;$/;"	m	struct:scepitem	typeref:union:scepitem::__anon5	file:
+data	./scepd/sceplist.c	/^	} data;$/;"	m	struct:scepitem	typeref:union:scepitem::__anon6	file:
+debug	./lib/init.c	/^int	debug = 1;$/;"	v
+debug	./rogi/openscep-0.4.2/lib/init.c	/^int	debug = 1;$/;"	v
+debug	./rogi/openscep-0.4.2/scepd/crl2ldap.c	/^int	debug = 0;$/;"	v
+debug	./rogi/openscep-0.4.2/scepd/dn2xid.c	/^int	debug = 0;$/;"	v
+debug	./rogi/openscep-0.4.2/scepd/scepconf.c	/^int	debug = 0;$/;"	v
+debug	./scepd/crl2ldap.c	/^int	debug = 0;$/;"	v
+debug	./scepd/dn2xid.c	/^int	debug = 0;$/;"	v
+debug	./scepd/scepconf.c	/^int	debug = 0;$/;"	v
+decode	./lib/decode.c	/^int	decode(scep_t *scep, BIO *bio) {$/;"	f
+decode	./rogi/openscep-0.4.2/lib/decode.c	/^int	decode(scep_t *scep, BIO *bio) {$/;"	f
+default_preloaded_symbols	./libltdl/ltdl.c	/^static const lt_dlsymlist *default_preloaded_symbols = 0;$/;"	v	file:
+default_preloaded_symbols	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const lt_dlsymlist *default_preloaded_symbols = 0;$/;"	v	file:
+depcount	./libltdl/ltdl.c	/^	int	depcount;	\/* number of dependencies *\/$/;"	m	struct:lt_dlhandle_t	file:
+depcount	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	int	depcount;	\/* number of dependencies *\/$/;"	m	struct:lt_dlhandle_t	file:
+deplibs	./libltdl/ltdl.c	/^	lt_dlhandle *deplibs;	\/* dependencies *\/$/;"	m	struct:lt_dlhandle_t	file:
+deplibs	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	lt_dlhandle *deplibs;	\/* dependencies *\/$/;"	m	struct:lt_dlhandle_t	file:
+display_cert	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static void	display_cert(scepitem_t *ip) {$/;"	f	file:
+display_cert	./scepd/sceplist.c	/^static void	display_cert(scepitem_t *ip) {$/;"	f	file:
+display_item	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static void	display_item(scepitem_t *ip) {$/;"	f	file:
+display_item	./scepd/sceplist.c	/^static void	display_item(scepitem_t *ip) {$/;"	f	file:
+display_req	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static void	display_req(scepitem_t *ip) {$/;"	f	file:
+display_req	./scepd/sceplist.c	/^static void	display_req(scepitem_t *ip) {$/;"	f	file:
+dlopen_not_supported_error	./libltdl/ltdl.c	/^static const char dlopen_not_supported_error[] = "dlopen support not available";$/;"	v	file:
+dlopen_not_supported_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char dlopen_not_supported_error[] = "dlopen support not available";$/;"	v	file:
+encode	./lib/encode.c	/^int	encode(scep_t *scep) {$/;"	f
+encode	./rogi/openscep-0.4.2/lib/encode.c	/^int	encode(scep_t *scep) {$/;"	f
+extract_cert	./rogi/openscep-0.4.2/scep/scep.c	/^static X509	*extract_cert(scep_t *scep) {$/;"	f	file:
+extract_cert	./scep/scep.c	/^static X509	*extract_cert(scep_t *scep) {$/;"	f	file:
+file_not_found_error	./libltdl/ltdl.c	/^static const char file_not_found_error[] = "file not found";$/;"	v	file:
+file_not_found_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char file_not_found_error[] = "file not found";$/;"	v	file:
+filename	./libltdl/ltdl.c	/^	char	*filename;	\/* file name *\/$/;"	m	struct:lt_dlhandle_t	file:
+filename	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	char	*filename;	\/* file name *\/$/;"	m	struct:lt_dlhandle_t	file:
+find_file	./libltdl/ltdl.c	/^find_file (basename, search_path, pdir, handle)$/;"	f	file:
+find_file	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^find_file (basename, search_path, pdir, handle)$/;"	f	file:
+find_module	./libltdl/ltdl.c	/^find_module (handle, dir, libdir, dlname, old_name, installed)$/;"	f	file:
+find_module	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^find_module (handle, dir, libdir, dlname, old_name, installed)$/;"	f	file:
+find_sym	./libltdl/ltdl.c	/^	lt_ptr_t (*find_sym) LTDL_PARAMS((lt_dlhandle handle, const char *symbol));$/;"	m	struct:lt_dltype_t	file:
+find_sym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	lt_ptr_t (*find_sym) LTDL_PARAMS((lt_dlhandle handle, const char *symbol));$/;"	m	struct:lt_dltype_t	file:
+fingerprint	./lib/fingerprint.c	/^char	*fingerprint(unsigned char *data, int length) {$/;"	f
+fingerprint	./rogi/openscep-0.4.2/lib/fingerprint.c	/^char	*fingerprint(unsigned char *data, int length) {$/;"	f
+fingerprint_cmp	./lib/fingerprint.c	/^int	fingerprint_cmp(const char *f1, const char *f2) {$/;"	f
+fingerprint_cmp	./rogi/openscep-0.4.2/lib/fingerprint.c	/^int	fingerprint_cmp(const char *f1, const char *f2) {$/;"	f
+fp_blanks	./lib/fingerprint.c	/^static int	fp_blanks = 0;$/;"	v	file:
+fp_blanks	./rogi/openscep-0.4.2/lib/fingerprint.c	/^static int	fp_blanks = 0;$/;"	v	file:
+free_vars	./libltdl/ltdl.c	/^free_vars(dir, name, dlname, oldname, libdir, deplibs)$/;"	f	file:
+free_vars	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^free_vars(dir, name, dlname, oldname, libdir, deplibs)$/;"	f	file:
+get_challenge	./lib/check.c	/^char	*get_challenge(scep_t *scep) {$/;"	f
+get_challenge	./rogi/openscep-0.4.2/lib/check.c	/^char	*get_challenge(scep_t *scep) {$/;"	f
+getcert	./lib/getcert.c	/^int	getcert(scep_t *scep) {$/;"	f
+getcert	./rogi/openscep-0.4.2/lib/getcert.c	/^int	getcert(scep_t *scep) {$/;"	f
+getcertinitial	./lib/getcertinitial.c	/^int	getcertinitial(scep_t *scep) {$/;"	f
+getcertinitial	./rogi/openscep-0.4.2/lib/getcertinitial.c	/^int	getcertinitial(scep_t *scep) {$/;"	f
+getcrl	./lib/getcrl.c	/^int	getcrl(scep_t *scep) {$/;"	f
+getcrl	./rogi/openscep-0.4.2/lib/getcrl.c	/^int	getcrl(scep_t *scep) {$/;"	f
+getrequest	./lib/http.c	/^BIO	*getrequest(scep_t *scep) {$/;"	f
+getrequest	./rogi/openscep-0.4.2/lib/http.c	/^BIO	*getrequest(scep_t *scep) {$/;"	f
+goodreply	./lib/goodreply.c	/^int	goodreply(scep_t *scep, int store) {$/;"	f
+goodreply	./rogi/openscep-0.4.2/lib/goodreply.c	/^int	goodreply(scep_t *scep, int store) {$/;"	f
+handle	./libltdl/ltdl.c	/^	lt_ptr_t handle;	\/* system handle *\/$/;"	m	struct:lt_dlhandle_t	file:
+handle	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	lt_ptr_t handle;	\/* system handle *\/$/;"	m	struct:lt_dlhandle_t	file:
+handles	./libltdl/ltdl.c	/^static lt_dlhandle handles = 0;$/;"	v	file:
+handles	./libltdl/ltdl.c	/^static lt_dlhandle handles;$/;"	v	file:
+handles	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static lt_dlhandle handles = 0;$/;"	v	file:
+handles	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static lt_dlhandle handles;$/;"	v	file:
+html	./rogi/openscep-0.4.2/scepd/sceplist.c	/^int	html = 0;$/;"	v
+html	./scepd/sceplist.c	/^int	html = 0;$/;"	v
+i2d_issuer_and_subject	./lib/isasu.c	/^int	i2d_issuer_and_subject(issuer_and_subject_t *a, unsigned char **pp) {$/;"	f
+i2d_issuer_and_subject	./rogi/openscep-0.4.2/lib/isasu.c	/^int	i2d_issuer_and_subject(issuer_and_subject_t *a, unsigned char **pp) {$/;"	f
+i2d_payload	./lib/payload.c	/^int	i2d_payload(payload_t *a, unsigned char **pp) {$/;"	f
+i2d_payload	./rogi/openscep-0.4.2/lib/payload.c	/^int	i2d_payload(payload_t *a, unsigned char **pp) {$/;"	f
+initialized	./libltdl/ltdl.c	/^static int initialized = 0;$/;"	v	file:
+initialized	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static int initialized = 0;$/;"	v	file:
+invalid_handle_error	./libltdl/ltdl.c	/^static const char invalid_handle_error[] = "invalid handle";$/;"	v	file:
+invalid_handle_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char invalid_handle_error[] = "invalid handle";$/;"	v	file:
+issuer_and_subject_free	./lib/isasu.c	/^void	issuer_and_subject_free(issuer_and_subject_t *isasu) {$/;"	f
+issuer_and_subject_free	./rogi/openscep-0.4.2/lib/isasu.c	/^void	issuer_and_subject_free(issuer_and_subject_t *isasu) {$/;"	f
+issuer_and_subject_new	./lib/isasu.c	/^issuer_and_subject_t	*issuer_and_subject_new(void) {$/;"	f
+issuer_and_subject_new	./rogi/openscep-0.4.2/lib/isasu.c	/^issuer_and_subject_t	*issuer_and_subject_new(void) {$/;"	f
+itemselect	./rogi/openscep-0.4.2/scepd/sceplist.c	/^int	itemselect = SELECT_PENDING;$/;"	v
+itemselect	./scepd/sceplist.c	/^int	itemselect = SELECT_PENDING;$/;"	v
+key	./rogi/openscep-0.4.2/scepd/sceplist.c	/^	void	*key;	\/* type depends on the sort order		*\/$/;"	m	struct:scepitem	file:
+key	./scepd/sceplist.c	/^	void	*key;	\/* type depends on the sort order		*\/$/;"	m	struct:scepitem	file:
+key_fingerprint	./lib/fingerprint.c	/^char	*key_fingerprint(EVP_PKEY *key) {$/;"	f
+key_fingerprint	./rogi/openscep-0.4.2/lib/fingerprint.c	/^char	*key_fingerprint(EVP_PKEY *key) {$/;"	f
+last_error	./libltdl/ltdl.c	/^static const char *last_error = 0;$/;"	v	file:
+last_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char *last_error = 0;$/;"	v	file:
+ldap_get_cert_common	./lib/scepldap.c	/^static int	ldap_get_cert_common(scep_t *scep, char *filter) {$/;"	f	file:
+ldap_get_cert_common	./rogi/openscep-0.4.2/lib/scepldap.c	/^static int	ldap_get_cert_common(scep_t *scep, char *filter) {$/;"	f	file:
+ldap_get_cert_from_issuer_and_serial	./lib/scepldap.c	/^int	ldap_get_cert_from_issuer_and_serial(scep_t *scep,$/;"	f
+ldap_get_cert_from_issuer_and_serial	./rogi/openscep-0.4.2/lib/scepldap.c	/^int	ldap_get_cert_from_issuer_and_serial(scep_t *scep,$/;"	f
+ldap_get_cert_from_issuer_and_subject	./lib/scepldap.c	/^int	ldap_get_cert_from_issuer_and_subject(scep_t *scep,$/;"	f
+ldap_get_cert_from_issuer_and_subject	./rogi/openscep-0.4.2/lib/scepldap.c	/^int	ldap_get_cert_from_issuer_and_subject(scep_t *scep,$/;"	f
+ldap_store_cert	./lib/scepldap.c	/^int	ldap_store_cert(scep_t *scep) {$/;"	f
+ldap_store_cert	./rogi/openscep-0.4.2/lib/scepldap.c	/^int	ldap_store_cert(scep_t *scep) {$/;"	f
+ldap_to_x509	./lib/scepldap.c	/^X509_NAME	*ldap_to_x509(char *dn) {$/;"	f
+ldap_to_x509	./rogi/openscep-0.4.2/lib/scepldap.c	/^X509_NAME	*ldap_to_x509(char *dn) {$/;"	f
+ldaphost	./rogi/openscep-0.4.2/scepd/crl2ldap.c	/^char	*ldaphost = "localhost";$/;"	v
+ldaphost	./rogi/openscep-0.4.2/scepd/dn2xid.c	/^char	*ldaphost = "localhost";$/;"	v
+ldaphost	./scepd/crl2ldap.c	/^char	*ldaphost = "localhost";$/;"	v
+ldaphost	./scepd/dn2xid.c	/^char	*ldaphost = "localhost";$/;"	v
+ldapport	./rogi/openscep-0.4.2/scepd/crl2ldap.c	/^int	ldapport = LDAP_PORT;$/;"	v
+ldapport	./rogi/openscep-0.4.2/scepd/dn2xid.c	/^int	ldapport = LDAP_PORT;$/;"	v
+ldapport	./scepd/crl2ldap.c	/^int	ldapport = LDAP_PORT;$/;"	v
+ldapport	./scepd/dn2xid.c	/^int	ldapport = LDAP_PORT;$/;"	v
+lib_close	./libltdl/ltdl.c	/^	int (*lib_close) LTDL_PARAMS((lt_dlhandle handle));$/;"	m	struct:lt_dltype_t	file:
+lib_close	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	int (*lib_close) LTDL_PARAMS((lt_dlhandle handle));$/;"	m	struct:lt_dltype_t	file:
+lib_open	./libltdl/ltdl.c	/^	int (*lib_open) LTDL_PARAMS((lt_dlhandle handle, const char *filename));$/;"	m	struct:lt_dltype_t	file:
+lib_open	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	int (*lib_open) LTDL_PARAMS((lt_dlhandle handle, const char *filename));$/;"	m	struct:lt_dltype_t	file:
+load_deplibs	./libltdl/ltdl.c	/^load_deplibs(handle, deplibs)$/;"	f	file:
+load_deplibs	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^load_deplibs(handle, deplibs)$/;"	f	file:
+logtimes	./rogi/openscep-0.4.2/scepd/scepd.c	/^static void	logtimes(struct tms *start) {$/;"	f	file:
+logtimes	./scepd/scepd.c	/^static void	logtimes(struct tms *start) {$/;"	f	file:
+lt_dladdsearchdir	./libltdl/ltdl.c	/^lt_dladdsearchdir (search_dir)$/;"	f
+lt_dladdsearchdir	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dladdsearchdir (search_dir)$/;"	f
+lt_dlclose	./libltdl/ltdl.c	/^lt_dlclose (handle)$/;"	f
+lt_dlclose	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlclose (handle)$/;"	f
+lt_dlerror	./libltdl/ltdl.c	/^lt_dlerror LTDL_PARAMS((void))$/;"	f
+lt_dlerror	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlerror LTDL_PARAMS((void))$/;"	f
+lt_dlexit	./libltdl/ltdl.c	/^lt_dlexit LTDL_PARAMS((void))$/;"	f
+lt_dlexit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlexit LTDL_PARAMS((void))$/;"	f
+lt_dlfree	./libltdl/ltdl.c	/^void	 (*lt_dlfree)  LTDL_PARAMS((lt_ptr_t ptr)) = (void(*)LTDL_PARAMS((lt_ptr_t)))free;$/;"	v
+lt_dlfree	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^void	 (*lt_dlfree)  LTDL_PARAMS((lt_ptr_t ptr)) = (void(*)LTDL_PARAMS((lt_ptr_t)))free;$/;"	v
+lt_dlgetsearchpath	./libltdl/ltdl.c	/^lt_dlgetsearchpath LTDL_PARAMS((void))$/;"	f
+lt_dlgetsearchpath	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlgetsearchpath LTDL_PARAMS((void))$/;"	f
+lt_dlhandle_t	./libltdl/ltdl.c	/^typedef	struct lt_dlhandle_t {$/;"	s	file:
+lt_dlhandle_t	./libltdl/ltdl.c	/^} lt_dlhandle_t;$/;"	t	typeref:struct:lt_dlhandle_t	file:
+lt_dlhandle_t	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^typedef	struct lt_dlhandle_t {$/;"	s	file:
+lt_dlhandle_t	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^} lt_dlhandle_t;$/;"	t	typeref:struct:lt_dlhandle_t	file:
+lt_dlinit	./libltdl/ltdl.c	/^lt_dlinit LTDL_PARAMS((void))$/;"	f
+lt_dlinit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlinit LTDL_PARAMS((void))$/;"	f
+lt_dlmalloc	./libltdl/ltdl.c	/^lt_ptr_t (*lt_dlmalloc) LTDL_PARAMS((size_t size)) = (lt_ptr_t(*)LTDL_PARAMS((size_t)))malloc;$/;"	v
+lt_dlmalloc	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_ptr_t (*lt_dlmalloc) LTDL_PARAMS((size_t size)) = (lt_ptr_t(*)LTDL_PARAMS((size_t)))malloc;$/;"	v
+lt_dlopen	./libltdl/ltdl.c	/^lt_dlopen (filename)$/;"	f
+lt_dlopen	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlopen (filename)$/;"	f
+lt_dlopenext	./libltdl/ltdl.c	/^lt_dlopenext (filename)$/;"	f
+lt_dlopenext	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlopenext (filename)$/;"	f
+lt_dlpreload	./libltdl/ltdl.c	/^lt_dlpreload (preloaded)$/;"	f
+lt_dlpreload	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlpreload (preloaded)$/;"	f
+lt_dlpreload_default	./libltdl/ltdl.c	/^lt_dlpreload_default (preloaded)$/;"	f
+lt_dlpreload_default	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlpreload_default (preloaded)$/;"	f
+lt_dlsetsearchpath	./libltdl/ltdl.c	/^lt_dlsetsearchpath (search_path)$/;"	f
+lt_dlsetsearchpath	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlsetsearchpath (search_path)$/;"	f
+lt_dlsym	./libltdl/ltdl.c	/^lt_dlsym (handle, symbol)$/;"	f
+lt_dlsym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^lt_dlsym (handle, symbol)$/;"	f
+lt_dlsymlists_t	./libltdl/ltdl.c	/^typedef struct lt_dlsymlists_t {$/;"	s	file:
+lt_dlsymlists_t	./libltdl/ltdl.c	/^} lt_dlsymlists_t;$/;"	t	typeref:struct:lt_dlsymlists_t	file:
+lt_dlsymlists_t	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^typedef struct lt_dlsymlists_t {$/;"	s	file:
+lt_dlsymlists_t	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^} lt_dlsymlists_t;$/;"	t	typeref:struct:lt_dlsymlists_t	file:
+lt_dltype_t	./libltdl/ltdl.c	/^typedef struct lt_dltype_t {$/;"	s	file:
+lt_dltype_t	./libltdl/ltdl.c	/^} lt_dltype_t;$/;"	t	typeref:struct:lt_dltype_t	file:
+lt_dltype_t	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^typedef struct lt_dltype_t {$/;"	s	file:
+lt_dltype_t	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^} lt_dltype_t;$/;"	t	typeref:struct:lt_dltype_t	file:
+lt_preloaded_symbols	./libltdl/ltdl.c	/^const lt_dlsymlist lt_preloaded_symbols[1] = { { 0, 0 } };$/;"	v
+lt_preloaded_symbols	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^const lt_dlsymlist lt_preloaded_symbols[1] = { { 0, 0 } };$/;"	v
+main	./rogi/openscep-0.4.2/scep/scep.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scep/scepxid.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scepd/cafingerprint.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scepd/crl2ldap.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scepd/derdump.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scepd/dn2xid.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scepd/scepconf.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scepd/scepd.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./rogi/openscep-0.4.2/scepd/sceplist.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scep/scep.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scep/scepxid.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scepd/cafingerprint.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scepd/crl2ldap.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scepd/derdump.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scepd/dn2xid.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scepd/scepconf.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scepd/scepd.c	/^int	main(int argc, char *argv[]) {$/;"	f
+main	./scepd/sceplist.c	/^int	main(int argc, char *argv[]) {$/;"	f
+memory_error	./libltdl/ltdl.c	/^static const char memory_error[] = "not enough memory";$/;"	v	file:
+memory_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char memory_error[] = "not enough memory";$/;"	v	file:
+mod_exit	./libltdl/ltdl.c	/^	int (*mod_exit) LTDL_PARAMS((void));$/;"	m	struct:lt_dltype_t	file:
+mod_exit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	int (*mod_exit) LTDL_PARAMS((void));$/;"	m	struct:lt_dltype_t	file:
+mod_init	./libltdl/ltdl.c	/^	int (*mod_init) LTDL_PARAMS((void));$/;"	m	struct:lt_dltype_t	file:
+mod_init	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	int (*mod_init) LTDL_PARAMS((void));$/;"	m	struct:lt_dltype_t	file:
+nNameattrs	./lib/payload.c	346;"	d	file:
+nNameattrs	./rogi/openscep-0.4.2/lib/payload.c	344;"	d	file:
+name	./libltdl/ltdl.c	/^	char	*name;		\/* module name *\/$/;"	m	struct:lt_dlhandle_t	file:
+name	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	char	*name;		\/* module name *\/$/;"	m	struct:lt_dlhandle_t	file:
+name1	./lib/init.c	/^	char	*name1;$/;"	m	struct:__anon1	file:
+name1	./rogi/openscep-0.4.2/lib/init.c	/^	char	*name1;$/;"	m	struct:__anon3	file:
+name2	./lib/init.c	/^	char	*name2;$/;"	m	struct:__anon1	file:
+name2	./rogi/openscep-0.4.2/lib/init.c	/^	char	*name2;$/;"	m	struct:__anon3	file:
+nameattrs	./lib/payload.c	/^static char	*nameattrs[nNameattrs] = { "CN", "OU", "O", "L", "ST", "C" };$/;"	v	file:
+nameattrs	./rogi/openscep-0.4.2/lib/payload.c	/^static char	*nameattrs[nNameattrs] = { "CN", "OU", "O", "L", "ST", "C" };$/;"	v	file:
+next	./libltdl/ltdl.c	/^	struct lt_dlhandle_t *next;$/;"	m	struct:lt_dlhandle_t	typeref:struct:lt_dlhandle_t::lt_dlhandle_t	file:
+next	./libltdl/ltdl.c	/^	struct lt_dlsymlists_t *next;$/;"	m	struct:lt_dlsymlists_t	typeref:struct:lt_dlsymlists_t::lt_dlsymlists_t	file:
+next	./libltdl/ltdl.c	/^	struct lt_dltype_t *next;$/;"	m	struct:lt_dltype_t	typeref:struct:lt_dltype_t::lt_dltype_t	file:
+next	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	struct lt_dlhandle_t *next;$/;"	m	struct:lt_dlhandle_t	typeref:struct:lt_dlhandle_t::lt_dlhandle_t	file:
+next	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	struct lt_dlsymlists_t *next;$/;"	m	struct:lt_dlsymlists_t	typeref:struct:lt_dlsymlists_t::lt_dlsymlists_t	file:
+next	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	struct lt_dltype_t *next;$/;"	m	struct:lt_dltype_t	typeref:struct:lt_dltype_t::lt_dltype_t	file:
+nid	./lib/init.c	/^	int	nid;$/;"	m	struct:__anon1	file:
+nid	./rogi/openscep-0.4.2/lib/init.c	/^	int	nid;$/;"	m	struct:__anon3	file:
+niddef_t	./lib/init.c	/^} niddef_t;$/;"	t	typeref:struct:__anon1	file:
+niddef_t	./rogi/openscep-0.4.2/lib/init.c	/^} niddef_t;$/;"	t	typeref:struct:__anon3	file:
+no_symbols_error	./libltdl/ltdl.c	/^static const char no_symbols_error[] = "no symbols defined";$/;"	v	file:
+no_symbols_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char no_symbols_error[] = "no symbols defined";$/;"	v	file:
+objdir	./libltdl/ltdl.c	/^static const char objdir[] = LTDL_OBJDIR;$/;"	v	file:
+objdir	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char objdir[] = LTDL_OBJDIR;$/;"	v	file:
+oid	./lib/init.c	/^	char	*oid;$/;"	m	struct:__anon1	file:
+oid	./rogi/openscep-0.4.2/lib/init.c	/^	char	*oid;$/;"	m	struct:__anon3	file:
+openscep_version	./lib/openscep_vers.c	/^openscep_version_t openscep_version = {$/;"	v
+openscep_version	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^openscep_version_t openscep_version = {$/;"	v
+openscep_version_t	./lib/openscep_vers.c	/^} openscep_version_t;$/;"	t	typeref:struct:__anon2	file:
+openscep_version_t	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^} openscep_version_t;$/;"	t	typeref:struct:__anon4	file:
+parseurl	./lib/http.c	/^int	parseurl(scep_t *scep, char *url) {$/;"	f
+parseurl	./rogi/openscep-0.4.2/lib/http.c	/^int	parseurl(scep_t *scep, char *url) {$/;"	f
+payload_build_original	./lib/payload.c	/^void	payload_build_original(payload_t *pl) {$/;"	f
+payload_build_original	./rogi/openscep-0.4.2/lib/payload.c	/^void	payload_build_original(payload_t *pl) {$/;"	f
+payload_dn_to_attrs	./lib/payload.c	/^int	payload_dn_to_attrs(payload_t *pl, char *dn) {$/;"	f
+payload_dn_to_attrs	./rogi/openscep-0.4.2/lib/payload.c	/^int	payload_dn_to_attrs(payload_t *pl, char *dn) {$/;"	f
+payload_free	./lib/payload.c	/^void	payload_free(payload_t *a) {$/;"	f
+payload_free	./rogi/openscep-0.4.2/lib/payload.c	/^void	payload_free(payload_t *a) {$/;"	f
+payload_free_od	./lib/payload.c	/^static void	payload_free_od(payload_t *pl) {$/;"	f	file:
+payload_free_od	./rogi/openscep-0.4.2/lib/payload.c	/^static void	payload_free_od(payload_t *pl) {$/;"	f	file:
+payload_get_pubkey	./lib/payload.c	/^EVP_PKEY	*payload_get_pubkey(payload_t *pl) {$/;"	f
+payload_get_pubkey	./rogi/openscep-0.4.2/lib/payload.c	/^EVP_PKEY	*payload_get_pubkey(payload_t *pl) {$/;"	f
+payload_get_requesttype	./lib/payload.c	/^long	payload_get_requesttype(payload_t *pl) {$/;"	f
+payload_get_requesttype	./rogi/openscep-0.4.2/lib/payload.c	/^long	payload_get_requesttype(payload_t *pl) {$/;"	f
+payload_getreq	./lib/payload.c	/^X509_REQ	*payload_getreq(payload_t *pl) {$/;"	f
+payload_getreq	./rogi/openscep-0.4.2/lib/payload.c	/^X509_REQ	*payload_getreq(payload_t *pl) {$/;"	f
+payload_getspki	./lib/payload.c	/^NETSCAPE_SPKI	*payload_getspki(payload_t *pl) {$/;"	f
+payload_getspki	./rogi/openscep-0.4.2/lib/payload.c	/^NETSCAPE_SPKI	*payload_getspki(payload_t *pl) {$/;"	f
+payload_new	./lib/payload.c	/^payload_t	*payload_new() {$/;"	f
+payload_new	./rogi/openscep-0.4.2/lib/payload.c	/^payload_t	*payload_new() {$/;"	f
+payload_set_common	./lib/payload.c	/^static BIO	*payload_set_common(payload_t *pl, char *filename) {$/;"	f	file:
+payload_set_common	./rogi/openscep-0.4.2/lib/payload.c	/^static BIO	*payload_set_common(payload_t *pl, char *filename) {$/;"	f	file:
+payload_set_req	./lib/payload.c	/^int	payload_set_req(payload_t *pl, X509_REQ *req) {$/;"	f
+payload_set_req	./rogi/openscep-0.4.2/lib/payload.c	/^int	payload_set_req(payload_t *pl, X509_REQ *req) {$/;"	f
+payload_set_req_from_file	./lib/payload.c	/^int	payload_set_req_from_file(payload_t *pl, char *filename) {$/;"	f
+payload_set_req_from_file	./rogi/openscep-0.4.2/lib/payload.c	/^int	payload_set_req_from_file(payload_t *pl, char *filename) {$/;"	f
+payload_set_spki	./lib/payload.c	/^int	payload_set_spki(payload_t *pl, NETSCAPE_SPKI *spki) {$/;"	f
+payload_set_spki	./rogi/openscep-0.4.2/lib/payload.c	/^int	payload_set_spki(payload_t *pl, NETSCAPE_SPKI *spki) {$/;"	f
+payload_set_spki_from_file	./lib/payload.c	/^int	payload_set_spki_from_file(payload_t *pl, char *filename) {$/;"	f
+payload_set_spki_from_file	./rogi/openscep-0.4.2/lib/payload.c	/^int	payload_set_spki_from_file(payload_t *pl, char *filename) {$/;"	f
+pending_get_request	./lib/pending.c	/^void	pending_get_request(scep_t *scep) {$/;"	f
+pending_get_request	./rogi/openscep-0.4.2/lib/pending.c	/^void	pending_get_request(scep_t *scep) {$/;"	f
+pending_getsubject	./lib/pending.c	/^X509_NAME	*pending_getsubject(scep_t *scep) {$/;"	f
+pending_getsubject	./rogi/openscep-0.4.2/lib/pending.c	/^X509_NAME	*pending_getsubject(scep_t *scep) {$/;"	f
+pkcsreq	./lib/pkcsreq.c	/^int	pkcsreq(scep_t *scep) {$/;"	f
+pkcsreq	./rogi/openscep-0.4.2/lib/pkcsreq.c	/^int	pkcsreq(scep_t *scep) {$/;"	f
+preloaded_symbols	./libltdl/ltdl.c	/^static lt_dlsymlists_t *preloaded_symbols = 0;$/;"	v	file:
+preloaded_symbols	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static lt_dlsymlists_t *preloaded_symbols = 0;$/;"	v	file:
+presym	./libltdl/ltdl.c	/^presym = { LTDL_TYPE_TOP, 0, presym_init, presym_exit,$/;"	v	file:
+presym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym = { LTDL_TYPE_TOP, 0, presym_init, presym_exit,$/;"	v	file:
+presym_add_symlist	./libltdl/ltdl.c	/^presym_add_symlist (preloaded)$/;"	f	file:
+presym_add_symlist	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym_add_symlist (preloaded)$/;"	f	file:
+presym_close	./libltdl/ltdl.c	/^presym_close (handle)$/;"	f	file:
+presym_close	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym_close (handle)$/;"	f	file:
+presym_exit	./libltdl/ltdl.c	/^presym_exit LTDL_PARAMS((void))$/;"	f	file:
+presym_exit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym_exit LTDL_PARAMS((void))$/;"	f	file:
+presym_free_symlists	./libltdl/ltdl.c	/^presym_free_symlists LTDL_PARAMS((void))$/;"	f	file:
+presym_free_symlists	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym_free_symlists LTDL_PARAMS((void))$/;"	f	file:
+presym_init	./libltdl/ltdl.c	/^presym_init LTDL_PARAMS((void))$/;"	f	file:
+presym_init	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym_init LTDL_PARAMS((void))$/;"	f	file:
+presym_open	./libltdl/ltdl.c	/^presym_open (handle, filename)$/;"	f	file:
+presym_open	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym_open (handle, filename)$/;"	f	file:
+presym_sym	./libltdl/ltdl.c	/^presym_sym (handle, symbol)$/;"	f	file:
+presym_sym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^presym_sym (handle, symbol)$/;"	f	file:
+printable_fingerprint	./lib/fingerprint.c	/^static char	*printable_fingerprint(unsigned char *fp) {$/;"	f	file:
+printable_fingerprint	./rogi/openscep-0.4.2/lib/fingerprint.c	/^static char	*printable_fingerprint(unsigned char *fp) {$/;"	f	file:
+proxy_authenticator	./lib/proxy.c	/^ASN1_OCTET_STRING	*proxy_authenticator(scepmsg_t *msg, char *community) {$/;"	f
+proxy_authenticator	./rogi/openscep-0.4.2/lib/proxy.c	/^ASN1_OCTET_STRING	*proxy_authenticator(scepmsg_t *msg, char *community) {$/;"	f
+proxy_check	./lib/proxy.c	/^int	proxy_check(scep_t *scep, scepmsg_t *msg, ASN1_OCTET_STRING *auth) {$/;"	f
+proxy_check	./rogi/openscep-0.4.2/lib/proxy.c	/^int	proxy_check(scep_t *scep, scepmsg_t *msg, ASN1_OCTET_STRING *auth) {$/;"	f
+read_castuff	./rogi/openscep-0.4.2/scep/scep.c	/^static int	read_castuff(scep_t *scep, char *cacertfile) {$/;"	f	file:
+read_castuff	./scep/scep.c	/^static int	read_castuff(scep_t *scep, char *cacertfile) {$/;"	f	file:
+read_clientstuff	./rogi/openscep-0.4.2/scep/scep.c	/^static int	read_clientstuff(scep_t *scep, char *requestfile, char *keyfile) {$/;"	f	file:
+read_clientstuff	./scep/scep.c	/^static int	read_clientstuff(scep_t *scep, char *requestfile, char *keyfile) {$/;"	f	file:
+read_requestorstuff	./rogi/openscep-0.4.2/scep/scep.c	/^static int	read_requestorstuff(scep_t *scep, int type, char *filename) {$/;"	f	file:
+read_requestorstuff	./scep/scep.c	/^static int	read_requestorstuff(scep_t *scep, int type, char *filename) {$/;"	f	file:
+readitem	./rogi/openscep-0.4.2/scepd/sceplist.c	/^static scepitem_t	*readitem(char *transid) {$/;"	f	file:
+readitem	./scepd/sceplist.c	/^static scepitem_t	*readitem(char *transid) {$/;"	f	file:
+req	./rogi/openscep-0.4.2/scepd/sceplist.c	/^		X509_REQ	*req;$/;"	m	union:scepitem::__anon5	file:
+req	./scepd/sceplist.c	/^		X509_REQ	*req;$/;"	m	union:scepitem::__anon6	file:
+reverse	./rogi/openscep-0.4.2/scepd/sceplist.c	/^int	reverse = 1;$/;"	v
+reverse	./scepd/sceplist.c	/^int	reverse = 1;$/;"	v
+scep_clear	./lib/init.c	/^void	scep_clear(scep_t *scep) {$/;"	f
+scep_clear	./rogi/openscep-0.4.2/lib/init.c	/^void	scep_clear(scep_t *scep) {$/;"	f
+scep_config	./lib/init.c	/^int	scep_config(scep_t *scep, char *configfile) {$/;"	f
+scep_config	./rogi/openscep-0.4.2/lib/init.c	/^int	scep_config(scep_t *scep, char *configfile) {$/;"	f
+scep_ldap_init	./lib/scepldap.c	/^int	scep_ldap_init(scep_t *scep) {$/;"	f
+scep_ldap_init	./rogi/openscep-0.4.2/lib/scepldap.c	/^int	scep_ldap_init(scep_t *scep) {$/;"	f
+scep_oid_def	./lib/init.c	/^static niddef_t	scep_oid_def[NEW_NIDS] = {$/;"	v	file:
+scep_oid_def	./rogi/openscep-0.4.2/lib/init.c	/^static niddef_t	scep_oid_def[NEW_NIDS] = {$/;"	v	file:
+scepinit	./lib/init.c	/^int	scepinit(void) {$/;"	f
+scepinit	./rogi/openscep-0.4.2/lib/init.c	/^int	scepinit(void) {$/;"	f
+scepitem	./rogi/openscep-0.4.2/scepd/sceplist.c	/^typedef struct scepitem {$/;"	s	file:
+scepitem	./scepd/sceplist.c	/^typedef struct scepitem {$/;"	s	file:
+scepitem_t	./rogi/openscep-0.4.2/scepd/sceplist.c	/^} scepitem_t;$/;"	t	typeref:struct:scepitem	file:
+scepitem_t	./scepd/sceplist.c	/^} scepitem_t;$/;"	t	typeref:struct:scepitem	file:
+selectname	./rogi/openscep-0.4.2/scepd/sceplist.c	/^char	*selectname[4] = {$/;"	v
+selectname	./scepd/sceplist.c	/^char	*selectname[4] = {$/;"	v
+selfsigned	./lib/selfsigned.c	/^int	selfsigned(scep_t *scep) {$/;"	f
+selfsigned	./rogi/openscep-0.4.2/lib/selfsigned.c	/^int	selfsigned(scep_t *scep) {$/;"	f
+shlib_ext	./libltdl/ltdl.c	/^static const char shlib_ext[] = LTDL_SHLIB_EXT;$/;"	v	file:
+shlib_ext	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char shlib_ext[] = LTDL_SHLIB_EXT;$/;"	v	file:
+shutdown_error	./libltdl/ltdl.c	/^static const char shutdown_error[] = "library already shutdown";$/;"	v	file:
+shutdown_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char shutdown_error[] = "library already shutdown";$/;"	v	file:
+sigattr_asn1_octet	./lib/sigattr.c	/^ASN1_OCTET_STRING	*sigattr_asn1_octet(scep_t *scep, char *attrname) {$/;"	f
+sigattr_asn1_octet	./rogi/openscep-0.4.2/lib/sigattr.c	/^ASN1_OCTET_STRING	*sigattr_asn1_octet(scep_t *scep, char *attrname) {$/;"	f
+sigattr_octet	./lib/sigattr.c	/^unsigned char	*sigattr_octet(scep_t *scep, char *attrname, int *len) {$/;"	f
+sigattr_octet	./rogi/openscep-0.4.2/lib/sigattr.c	/^unsigned char	*sigattr_octet(scep_t *scep, char *attrname, int *len) {$/;"	f
+sigattr_string	./lib/sigattr.c	/^char	*sigattr_string(scep_t *scep, char *attrname) {$/;"	f
+sigattr_string	./rogi/openscep-0.4.2/lib/sigattr.c	/^char	*sigattr_string(scep_t *scep, char *attrname) {$/;"	f
+sortorder	./rogi/openscep-0.4.2/scepd/sceplist.c	/^int	sortorder = SORT_NAME;$/;"	v
+sortorder	./scepd/sceplist.c	/^int	sortorder = SORT_NAME;$/;"	v
+spki2file	./lib/spki2file.c	/^int	spki2file(char *filename, X509_NAME *name,$/;"	f
+spki2file	./rogi/openscep-0.4.2/lib/spki2file.c	/^int	spki2file(char *filename, X509_NAME *name,$/;"	f
+strchr	./libltdl/ltdl.c	/^strchr(str, ch)$/;"	f	file:
+strchr	./libltdl/ltdl.c	156;"	d	file:
+strchr	./libltdl/ltdl.c	160;"	d	file:
+strchr	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^strchr(str, ch)$/;"	f	file:
+strchr	./rogi/openscep-0.4.2/libltdl/ltdl.c	156;"	d	file:
+strchr	./rogi/openscep-0.4.2/libltdl/ltdl.c	160;"	d	file:
+strdup	./libltdl/ltdl.c	/^strdup(str)$/;"	f	file:
+strdup	./libltdl/ltdl.c	135;"	d	file:
+strdup	./libltdl/ltdl.c	136;"	d	file:
+strdup	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^strdup(str)$/;"	f	file:
+strdup	./rogi/openscep-0.4.2/libltdl/ltdl.c	135;"	d	file:
+strdup	./rogi/openscep-0.4.2/libltdl/ltdl.c	136;"	d	file:
+strrchr	./libltdl/ltdl.c	/^strrchr(str, ch)$/;"	f	file:
+strrchr	./libltdl/ltdl.c	183;"	d	file:
+strrchr	./libltdl/ltdl.c	187;"	d	file:
+strrchr	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^strrchr(str, ch)$/;"	f	file:
+strrchr	./rogi/openscep-0.4.2/libltdl/ltdl.c	183;"	d	file:
+strrchr	./rogi/openscep-0.4.2/libltdl/ltdl.c	187;"	d	file:
+sym_prefix	./libltdl/ltdl.c	/^	const char *sym_prefix;	\/* prefix for symbols *\/$/;"	m	struct:lt_dltype_t	file:
+sym_prefix	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	const char *sym_prefix;	\/* prefix for symbols *\/$/;"	m	struct:lt_dltype_t	file:
+symbol_error	./libltdl/ltdl.c	/^static const char symbol_error[] = "symbol not found";$/;"	v	file:
+symbol_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char symbol_error[] = "symbol not found";$/;"	v	file:
+syms	./libltdl/ltdl.c	/^	const lt_dlsymlist *syms;$/;"	m	struct:lt_dlsymlists_t	file:
+syms	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	const lt_dlsymlist *syms;$/;"	m	struct:lt_dlsymlists_t	file:
+sys_bedl	./libltdl/ltdl.c	/^sys_bedl = { LTDL_TYPE_TOP, 0, sys_bedl_init, sys_bedl_exit,$/;"	v	file:
+sys_bedl	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_bedl = { LTDL_TYPE_TOP, 0, sys_bedl_init, sys_bedl_exit,$/;"	v	file:
+sys_bedl_close	./libltdl/ltdl.c	/^sys_bedl_close (handle)$/;"	f	file:
+sys_bedl_close	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_bedl_close (handle)$/;"	f	file:
+sys_bedl_exit	./libltdl/ltdl.c	/^sys_bedl_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_bedl_exit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_bedl_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_bedl_init	./libltdl/ltdl.c	/^sys_bedl_init LTDL_PARAMS((void))$/;"	f	file:
+sys_bedl_init	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_bedl_init LTDL_PARAMS((void))$/;"	f	file:
+sys_bedl_open	./libltdl/ltdl.c	/^sys_bedl_open (handle, filename)$/;"	f	file:
+sys_bedl_open	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_bedl_open (handle, filename)$/;"	f	file:
+sys_bedl_sym	./libltdl/ltdl.c	/^sys_bedl_sym (handle, symbol)$/;"	f	file:
+sys_bedl_sym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_bedl_sym (handle, symbol)$/;"	f	file:
+sys_dl	./libltdl/ltdl.c	/^sys_dl = { LTDL_TYPE_TOP, "_", sys_dl_init, sys_dl_exit,$/;"	v	file:
+sys_dl	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dl = { LTDL_TYPE_TOP, "_", sys_dl_init, sys_dl_exit,$/;"	v	file:
+sys_dl_close	./libltdl/ltdl.c	/^sys_dl_close (handle)$/;"	f	file:
+sys_dl_close	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dl_close (handle)$/;"	f	file:
+sys_dl_exit	./libltdl/ltdl.c	/^sys_dl_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_dl_exit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dl_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_dl_init	./libltdl/ltdl.c	/^sys_dl_init LTDL_PARAMS((void))$/;"	f	file:
+sys_dl_init	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dl_init LTDL_PARAMS((void))$/;"	f	file:
+sys_dl_open	./libltdl/ltdl.c	/^sys_dl_open (handle, filename)$/;"	f	file:
+sys_dl_open	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dl_open (handle, filename)$/;"	f	file:
+sys_dl_sym	./libltdl/ltdl.c	/^sys_dl_sym (handle, symbol)$/;"	f	file:
+sys_dl_sym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dl_sym (handle, symbol)$/;"	f	file:
+sys_dld	./libltdl/ltdl.c	/^sys_dld = { LTDL_TYPE_TOP, 0, sys_dld_init, sys_dld_exit,$/;"	v	file:
+sys_dld	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dld = { LTDL_TYPE_TOP, 0, sys_dld_init, sys_dld_exit,$/;"	v	file:
+sys_dld_close	./libltdl/ltdl.c	/^sys_dld_close (handle)$/;"	f	file:
+sys_dld_close	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dld_close (handle)$/;"	f	file:
+sys_dld_exit	./libltdl/ltdl.c	/^sys_dld_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_dld_exit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dld_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_dld_init	./libltdl/ltdl.c	/^sys_dld_init LTDL_PARAMS((void))$/;"	f	file:
+sys_dld_init	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dld_init LTDL_PARAMS((void))$/;"	f	file:
+sys_dld_open	./libltdl/ltdl.c	/^sys_dld_open (handle, filename)$/;"	f	file:
+sys_dld_open	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dld_open (handle, filename)$/;"	f	file:
+sys_dld_sym	./libltdl/ltdl.c	/^sys_dld_sym (handle, symbol)$/;"	f	file:
+sys_dld_sym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_dld_sym (handle, symbol)$/;"	f	file:
+sys_shl	./libltdl/ltdl.c	/^sys_shl = { LTDL_TYPE_TOP, 0, sys_shl_init, sys_shl_exit,$/;"	v	file:
+sys_shl	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_shl = { LTDL_TYPE_TOP, 0, sys_shl_init, sys_shl_exit,$/;"	v	file:
+sys_shl_close	./libltdl/ltdl.c	/^sys_shl_close (handle)$/;"	f	file:
+sys_shl_close	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_shl_close (handle)$/;"	f	file:
+sys_shl_exit	./libltdl/ltdl.c	/^sys_shl_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_shl_exit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_shl_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_shl_init	./libltdl/ltdl.c	/^sys_shl_init LTDL_PARAMS((void))$/;"	f	file:
+sys_shl_init	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_shl_init LTDL_PARAMS((void))$/;"	f	file:
+sys_shl_open	./libltdl/ltdl.c	/^sys_shl_open (handle, filename)$/;"	f	file:
+sys_shl_open	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_shl_open (handle, filename)$/;"	f	file:
+sys_shl_sym	./libltdl/ltdl.c	/^sys_shl_sym (handle, symbol)$/;"	f	file:
+sys_shl_sym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_shl_sym (handle, symbol)$/;"	f	file:
+sys_wll	./libltdl/ltdl.c	/^sys_wll = { LTDL_TYPE_TOP, 0, sys_wll_init, sys_wll_exit,$/;"	v	file:
+sys_wll	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_wll = { LTDL_TYPE_TOP, 0, sys_wll_init, sys_wll_exit,$/;"	v	file:
+sys_wll_close	./libltdl/ltdl.c	/^sys_wll_close (handle)$/;"	f	file:
+sys_wll_close	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_wll_close (handle)$/;"	f	file:
+sys_wll_exit	./libltdl/ltdl.c	/^sys_wll_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_wll_exit	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_wll_exit LTDL_PARAMS((void))$/;"	f	file:
+sys_wll_init	./libltdl/ltdl.c	/^sys_wll_init LTDL_PARAMS((void))$/;"	f	file:
+sys_wll_init	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_wll_init LTDL_PARAMS((void))$/;"	f	file:
+sys_wll_open	./libltdl/ltdl.c	/^sys_wll_open (handle, filename)$/;"	f	file:
+sys_wll_open	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_wll_open (handle, filename)$/;"	f	file:
+sys_wll_sym	./libltdl/ltdl.c	/^sys_wll_sym (handle, symbol)$/;"	f	file:
+sys_wll_sym	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^sys_wll_sym (handle, symbol)$/;"	f	file:
+system	./libltdl/ltdl.c	/^	lt_ptr_t system;	\/* system specific data *\/$/;"	m	struct:lt_dlhandle_t	file:
+system	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	lt_ptr_t system;	\/* system specific data *\/$/;"	m	struct:lt_dlhandle_t	file:
+tmppath	./lib/init.c	/^char	*tmppath = NULL;	$/;"	v
+tmppath	./rogi/openscep-0.4.2/lib/init.c	/^char	*tmppath = NULL;	$/;"	v
+transcheck_granted	./lib/transcheck.c	/^int	transcheck_granted(scep_t *scep) {$/;"	f
+transcheck_granted	./rogi/openscep-0.4.2/lib/transcheck.c	/^int	transcheck_granted(scep_t *scep) {$/;"	f
+transcheck_pending	./lib/transcheck.c	/^int	transcheck_pending(scep_t *scep) {$/;"	f
+transcheck_pending	./rogi/openscep-0.4.2/lib/transcheck.c	/^int	transcheck_pending(scep_t *scep) {$/;"	f
+transcheck_rejected	./lib/transcheck.c	/^int	transcheck_rejected(scep_t *scep) {$/;"	f
+transcheck_rejected	./rogi/openscep-0.4.2/lib/transcheck.c	/^int	transcheck_rejected(scep_t *scep) {$/;"	f
+transid	./rogi/openscep-0.4.2/scepd/sceplist.c	/^	char	*transid;$/;"	m	struct:scepitem	file:
+transid	./scepd/sceplist.c	/^	char	*transid;$/;"	m	struct:scepitem	file:
+trim	./libltdl/ltdl.c	/^trim (dest, str)$/;"	f	file:
+trim	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^trim (dest, str)$/;"	f	file:
+tryall_dlopen	./libltdl/ltdl.c	/^tryall_dlopen (handle, filename)$/;"	f	file:
+tryall_dlopen	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^tryall_dlopen (handle, filename)$/;"	f	file:
+type	./libltdl/ltdl.c	/^	lt_dltype_t *type;	\/* dlopening interface *\/$/;"	m	struct:lt_dlhandle_t	file:
+type	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	lt_dltype_t *type;	\/* dlopening interface *\/$/;"	m	struct:lt_dlhandle_t	file:
+type	./rogi/openscep-0.4.2/scepd/sceplist.c	/^	int 	type;$/;"	m	struct:scepitem	file:
+type	./scepd/sceplist.c	/^	int 	type;$/;"	m	struct:scepitem	file:
+types	./libltdl/ltdl.c	/^static lt_dltype_t *types = LTDL_TYPE_TOP;$/;"	v	file:
+types	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static lt_dltype_t *types = LTDL_TYPE_TOP;$/;"	v	file:
+unknown_error	./libltdl/ltdl.c	/^static const char unknown_error[] = "unknown error";$/;"	v	file:
+unknown_error	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static const char unknown_error[] = "unknown error";$/;"	v	file:
+unload_deplibs	./libltdl/ltdl.c	/^unload_deplibs(handle)$/;"	f	file:
+unload_deplibs	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^unload_deplibs(handle)$/;"	f	file:
+urlencode	./lib/http.c	/^char	*urlencode(const char *string) {$/;"	f
+urlencode	./rogi/openscep-0.4.2/lib/http.c	/^char	*urlencode(const char *string) {$/;"	f
+usage	./libltdl/ltdl.c	/^	int	usage;		\/* usage *\/$/;"	m	struct:lt_dlhandle_t	file:
+usage	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^	int	usage;		\/* usage *\/$/;"	m	struct:lt_dlhandle_t	file:
+usage	./rogi/openscep-0.4.2/scepd/derdump.c	/^static void	usage(void) {$/;"	f	file:
+usage	./scepd/derdump.c	/^static void	usage(void) {$/;"	f	file:
+user_search_path	./libltdl/ltdl.c	/^static char *user_search_path = 0;$/;"	v	file:
+user_search_path	./rogi/openscep-0.4.2/libltdl/ltdl.c	/^static char *user_search_path = 0;$/;"	v	file:
+v2request	./lib/v2request.c	/^int	v2request(scep_t *scep) {$/;"	f
+v2request	./rogi/openscep-0.4.2/lib/v2request.c	/^int	v2request(scep_t *scep) {$/;"	f
+v_gnu	./lib/openscep_vers.c	/^    const char *v_gnu;$/;"	m	struct:__anon2	file:
+v_gnu	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const char *v_gnu;$/;"	m	struct:__anon4	file:
+v_hex	./lib/openscep_vers.c	/^    const int   v_hex;$/;"	m	struct:__anon2	file:
+v_hex	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const int   v_hex;$/;"	m	struct:__anon4	file:
+v_long	./lib/openscep_vers.c	/^    const char *v_long;$/;"	m	struct:__anon2	file:
+v_long	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const char *v_long;$/;"	m	struct:__anon4	file:
+v_rcs	./lib/openscep_vers.c	/^    const char *v_rcs;$/;"	m	struct:__anon2	file:
+v_rcs	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const char *v_rcs;$/;"	m	struct:__anon4	file:
+v_sccs	./lib/openscep_vers.c	/^    const char *v_sccs;$/;"	m	struct:__anon2	file:
+v_sccs	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const char *v_sccs;$/;"	m	struct:__anon4	file:
+v_short	./lib/openscep_vers.c	/^    const char *v_short;$/;"	m	struct:__anon2	file:
+v_short	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const char *v_short;$/;"	m	struct:__anon4	file:
+v_tex	./lib/openscep_vers.c	/^    const char *v_tex;$/;"	m	struct:__anon2	file:
+v_tex	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const char *v_tex;$/;"	m	struct:__anon4	file:
+v_web	./lib/openscep_vers.c	/^    const char *v_web;$/;"	m	struct:__anon2	file:
+v_web	./rogi/openscep-0.4.2/lib/openscep_vers.c	/^    const char *v_web;$/;"	m	struct:__anon4	file:
+x509	./rogi/openscep-0.4.2/scepd/sceplist.c	/^		X509		*x509;$/;"	m	union:scepitem::__anon5	file:
+x509	./scepd/sceplist.c	/^		X509		*x509;$/;"	m	union:scepitem::__anon6	file:
+x509_key_fingerprint	./lib/fingerprint.c	/^char	*x509_key_fingerprint(X509_REQ *req) {$/;"	f
+x509_key_fingerprint	./rogi/openscep-0.4.2/lib/fingerprint.c	/^char	*x509_key_fingerprint(X509_REQ *req) {$/;"	f
+x509_to_ldap	./lib/scepldap.c	/^char	*x509_to_ldap(scep_t *scep, X509_NAME *name) {$/;"	f
+x509_to_ldap	./rogi/openscep-0.4.2/lib/scepldap.c	/^char	*x509_to_ldap(scep_t *scep, X509_NAME *name) {$/;"	f

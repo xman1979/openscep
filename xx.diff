@@ -1,0 +1,32 @@
+--- scepldap.c.old	Mon Sep 24 15:03:07 2007
++++ scepldap.c	Mon Sep 24 15:01:05 2007
+ 	for (i = X509_NAME_entry_count(name) - 1; i >= 0; i--) {
+ 		us =
+X509_NAME_ENTRY_get_object(X509_NAME_get_entry(name, i));
+ 		as = X509_NAME_ENTRY_get_data(X509_NAME_get_entry(name,
+i));
+ 		sn = OBJ_nid2sn(OBJ_obj2nid(us));
+ 		nl = strlen(sn) + as->length + 1;
+-		if (dl == 0) { nl += 2; }
+-		dn = (char *)realloc(dn, dl + nl + 2);
+-		snprintf(dn + dl, nl + 2, "%s%s=%*.*s",
+-			(dl == 0) ? "" : ",", us->sn, as->length,
+as->length,
++        if (dl) { ++nl; }
++        dn = (char *)realloc(dn, dl + nl + 1);
++        snprintf(dn + dl, nl + 1, "%s%s=%*.*s",
++                (dl) ? "," : "", sn, as->length, as->length,
+ 			as->data);
+-		if (dl == 0)
+-			dl = nl;
+-		else
+-			dl += nl + 1;
++        dl += nl;
+ 	}
+
+ 	/* common return (for debugging)
+*/
+ reply:
+ 	if (debug)
+
+

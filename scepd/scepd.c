@@ -297,7 +297,6 @@ prepreply:
 		BIO_printf(bio_err, "%s:%d: reply written to file %s\n",
 			__FILE__, __LINE__, filename);
 	}
-	BIO_free(outbio);
 
 	/* successful completion					*/
 	ERR_print_errors(bio_err); /* just in case something is still there */
